@@ -34,3 +34,7 @@ Canon imageCLASS 2200 Advanced Copier               14076.824
 Hewlett Packard LaserJet 3310 Copier                13837.732
 GBC DocuBind TL300 Electric Binding System          12890.258
 GBC DocuBind P400 Electric Binding System           12577.108
+Day 3 - visualizations and Menu
+the project displays the graph we choose from the menu by selecting the number.
+the graphs are saved in a seprate folder called visuals:
+
